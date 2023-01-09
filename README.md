@@ -5,9 +5,9 @@
 
 
 
-<div>
+<div align="center">
     <div>  
-      <img width="41%" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaienamartins&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaienamartins&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </div>
 
   <p>
