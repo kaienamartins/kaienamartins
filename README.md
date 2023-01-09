@@ -7,9 +7,9 @@
 
 <div align="center">
     <div>  
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaienamartins&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaienamartins&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </div>
-
+</br>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=kaienamartins&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false" alt="Kaiena's github stats" />
   </p>
